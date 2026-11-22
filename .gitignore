@@ -1,0 +1,6 @@
+# build output
+build/
+bin/
+*.class
+# local tools
+graphify-out/
