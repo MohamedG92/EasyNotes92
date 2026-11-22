@@ -7,6 +7,13 @@ and autocomplete from the notes you already wrote.
 
 **Created by Mohamed Iraqi Houssaini.** Free, and the source code is public.
 
+## Download
+
+<a href="https://apps.microsoft.com/detail/9NQLXZ93BSGM"><img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="Get it from Microsoft" /></a>
+
+- **Windows 10 / 11:** free on the [Microsoft Store](https://apps.microsoft.com/detail/9NQLXZ93BSGM), signed by Microsoft, with automatic updates.
+- **macOS:** see [EasyNotes92-macOS](https://github.com/MohamedG92/EasyNotes92-macOS).
+
 Written in **Java 25 / Swing** with **[FlatLaf](https://www.formdev.com/flatlaf/)** for the look and themes.
 
 ![Choose format page](docs/screenshots/choose-format.png)
